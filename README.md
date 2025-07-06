@@ -24,5 +24,5 @@ A simple and responsive countdown timer web app that lets users track the time r
 MIT
 
 ## 📸 Screenshots
-
-
+Home page screenshot
+(https://github.com/karanrathod24/Event-CountDown-Timer/blob/main/images/Screenshot%202025-07-03%20113826.png)
